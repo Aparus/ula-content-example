@@ -1,0 +1,22 @@
+{
+	"name": "ula-content-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aparus/ula-content-example.git"
+	},
+	"keywords": [
+		"ula"
+	],
+	"author": "aparus",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Aparus/ula-content-example/issues"
+	},
+	"homepage": "https://github.com/Aparus/ula-content-example/"
+}
